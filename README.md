@@ -1,0 +1,2 @@
+# premium-lag-bolt-001-lag-bolt-forging-timber-scre
+Tired of losing track of your custom lag bolt specs and screw head designs across scattered notebooks? Your forge deserves a dedicated lab notebook.  This Notion template transforms chaos into a streamlined workflow, letting you log every forging step, catalog screw head shapes, and track material batches—all in one place. No more forgotten heat tr
